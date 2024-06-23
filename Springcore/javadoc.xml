@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\Users\GS-3935\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\GS-3935\.m2\repository\org\springframework\spring-expression\4.3.16.RELEASE\spring-expression-4.3.16.RELEASE.jar;target/test-classes;C:\Users\GS-3935\.m2\repository\org\springframework\spring-aop\4.3.16.RELEASE\spring-aop-4.3.16.RELEASE.jar;C:\Users\GS-3935\.m2\repository\org\springframework\spring-context\4.3.16.RELEASE\spring-context-4.3.16.RELEASE.jar;C:\Users\GS-3935\.m2\repository\org\springframework\spring-beans\4.3.16.RELEASE\spring-beans-4.3.16.RELEASE.jar;C:\Users\GS-3935\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\GS-3935\.m2\repository\org\springframework\spring-core\4.3.16.RELEASE\spring-core-4.3.16.RELEASE.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.8" sourcefiles="src/main/java/com/springcore/Noxml/Test.java" sourcepath="src/main/java;src/test/java" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
